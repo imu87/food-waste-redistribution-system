@@ -1,4 +1,5 @@
-Trello Task: Food Donor Dashboard
+Assigned To: Assaduzzaman Imran
 Module: Food Donor
-Assigned to: Assaduzzaman Imran
+Description: Design the dashboard interface for Food Donors to manage their food donation activities.
+Deliverable: Food Donor Dashboard UI design.
 Status: Completed
