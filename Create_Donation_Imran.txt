@@ -1,4 +1,5 @@
-Trello Task: Create Donation
+Assigned To: Assaduzzaman Imran
 Module: Food Donor
-Assigned to: Assaduzzaman Imran
+Description: Design the interface that allows Food Donors to create and submit new food donation information.
+Deliverable: Create Donation UI design.
 Status: Completed
