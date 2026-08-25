@@ -1,0 +1,5 @@
+Assigned To: Roza
+Module: Food Receiver
+Description: Display donation requests assigned to the Food Receiver, including food details, quantity, donor information, and assignment status.
+Deliverable: Assigned Donation interface.
+Status: Completed
