@@ -1,4 +1,5 @@
-Trello Task: Donation List
+Assigned To: Assaduzzaman Imran
 Module: Food Donor
-Assigned to: Assaduzzaman Imran
+Description: Design the donation list interface where Food Donors can view their submitted food donations.
+Deliverable: Donation List UI design.
 Status: Completed
