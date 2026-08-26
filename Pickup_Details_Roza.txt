@@ -1,0 +1,5 @@
+Assigned To: Roza
+Module: Food Receiver
+Description: Provide pickup information for the assigned donation, including pickup location, date, time, food details, and pickup instructions.
+Deliverable: Pickup Details interface.
+Status: Completed
