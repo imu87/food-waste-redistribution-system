@@ -1,5 +1,5 @@
 Assigned To: Assaduzzaman Imran
 Module: Food Donor
 Description: Design the interface that allows Food Donors to monitor the current status of their food donations.
-Deliverable: Donation Status UI design.
+Deliverable: Donation Status design.
 Status: Completed

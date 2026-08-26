@@ -1,0 +1,5 @@
+Assigned To: Assaduzzaman Imran
+Module: Food Donor
+Description: Design the interface for viewing complete information about a selected food donation.
+Deliverable: Donation Details UI design.
+Status: Completed
