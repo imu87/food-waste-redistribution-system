@@ -1,0 +1,5 @@
+Assigned To: Roza
+Module: Food Receiver
+Description: Create a dashboard where Food Receivers can view assigned donations and manage pickup and delivery activities.
+Deliverable: Food Receiver Dashboard interface.
+Status: Completed
