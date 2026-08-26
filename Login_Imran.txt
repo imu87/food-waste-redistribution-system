@@ -1,6 +1,0 @@
-Trello Task: FD-01 - Food Donor Login Page
-Assigned To: Assaduzzaman Imran
-Module: Food Donor
-Description: Design the login page for Food Donors to securely access the system.
-Deliverable: Food Donor Login Page UI design.
-Status: Completed

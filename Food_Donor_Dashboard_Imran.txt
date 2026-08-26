@@ -1,5 +1,0 @@
-Assigned To: Assaduzzaman Imran
-Module: Food Donor
-Description: Design the dashboard interface for Food Donors to manage their food donation activities.
-Deliverable: Food Donor Dashboard UI design.
-Status: Completed

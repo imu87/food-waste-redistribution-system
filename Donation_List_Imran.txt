@@ -1,5 +1,0 @@
-Assigned To: Assaduzzaman Imran
-Module: Food Donor
-Description: Design the donation list interface where Food Donors can view their submitted food donations.
-Deliverable: Donation List UI design.
-Status: Completed
