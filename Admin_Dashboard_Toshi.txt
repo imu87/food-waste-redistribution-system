@@ -1,0 +1,5 @@
+Assigned To: Toshi Begum
+Module: Administrator
+Description: Design the Admin Dashboard for managing system activities.
+Deliverable: Admin Dashboard UI design.
+Status: Completed
