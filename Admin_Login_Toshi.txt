@@ -1,0 +1,5 @@
+Assigned To: Toshi
+Module: Administrator
+Task: Admin Login
+Description: Design the Admin Login page for secure administrator access.
+Deliverable: Admin Login Page UI
