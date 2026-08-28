@@ -1,0 +1,5 @@
+Assigned To: Sadia Afrin
+Module: NGO
+Description: Design the Available Food page where NGOs can view available donated food.
+Deliverable: Available Food UI design.
+Status: Completed
