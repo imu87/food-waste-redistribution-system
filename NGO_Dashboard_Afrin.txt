@@ -1,0 +1,5 @@
+Assigned To: Sadia Afrin
+Module: NGO
+Description: Design the NGO Dashboard for managing NGO activities and food-related requests.
+Deliverable: NGO Dashboard UI design.
+Status: Completed
