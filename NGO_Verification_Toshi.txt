@@ -1,0 +1,5 @@
+Assigned To: Toshi
+Module: Administrator
+Task: NGO Verification
+Description: Design the NGO Verification feature for reviewing and verifying NGO accounts.
+Deliverable: NGO Verification UI
