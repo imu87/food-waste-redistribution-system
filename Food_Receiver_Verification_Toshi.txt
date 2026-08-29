@@ -1,0 +1,5 @@
+Assigned To: Toshi
+Module: Administrator
+Task: Food Receiver Verification
+Description: Design the Food Receiver Verification feature for reviewing and verifying Food Receiver accounts.
+Deliverable: Food Receiver Verification UI
