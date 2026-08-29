@@ -1,0 +1,5 @@
+Assigned To: Toshi
+Module: Administrator
+Task: User Management
+Description: Design the User Management feature for managing registered users.
+Deliverable: User Management UI
