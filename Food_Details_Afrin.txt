@@ -1,0 +1,5 @@
+Assigned To: Sadia Afrin
+Module: NGO
+Description: Design the Food Details feature for viewing detailed information about available food donations.
+Deliverable: Food Details UI design.
+Status: Completed
